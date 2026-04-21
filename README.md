@@ -18,8 +18,10 @@
 GET /api/graph/nodes/{id}
 
 Example:
+```
 http://localhost:8080/api/graph/nodes/N1
 http://localhost:8080/api/graph/nodes/N1?maxDepth=2
+```
 
 ## Response Includes
 - Node details
